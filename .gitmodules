@@ -1,0 +1,3 @@
+[submodule "libs/CollatzSequence"]
+	path = libs/CollatzSequence
+	url = https://github.com/DiCode77/CollatzSequence.git

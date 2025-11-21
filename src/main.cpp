@@ -1,5 +1,4 @@
 #include "main.hpp"
-#include "NuclearLoad.hpp"
 
 bool MyApp::OnInit(){
     NuclearLoad* frame = new NuclearLoad("NuclearLoad");
